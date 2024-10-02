@@ -1,0 +1,44 @@
+.btn {
+    padding: 15px 15px;
+    font-size: 14px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+    transition: background-color 0.3s ease;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-warning {
+    background-color: #f0ad4e;
+}
+
+.btn-warning:hover {
+    background-color: #ec971f;
+}
+
+.btn-danger {
+    background-color: #d9534f;
+}
+
+.btn-danger:hover {
+    background-color: #c9302c;
+}
+
+.btn-sm {
+    padding: 10px 15px;
+    font-size: 12px;
+    margin-top: 5px;
+    text-align: center;
+    
+    }
+
+form {
+    display: inline;
+}
+
+button.btn {
+    outline: none;
+    border: none;
+}
+
